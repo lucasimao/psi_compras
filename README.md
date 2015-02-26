@@ -12,3 +12,10 @@ Mapeamento Objeto-Relacional
 Projeto
 
 Sistema de solicitação e acompanhamentos de cotações e compras.
+
+Funcionalidades 
+
+WEB
+
+Mobile
+
