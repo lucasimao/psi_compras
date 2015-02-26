@@ -15,7 +15,8 @@ Sistema de solicitação e acompanhamentos de cotações e compras.
 
 Funcionalidades 
 
-WEB
+WEB (Manter Cotação ,Manter Produtos, Manter pedidos de Compras)
 
-Mobile
+
+Mobile (Visualização de pendencias de cotação, Visualização de compras realizadas , Visualização dos produtos com maior demanda de compras no periodo) 
 
